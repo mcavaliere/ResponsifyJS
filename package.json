@@ -1,0 +1,19 @@
+{
+  "name": "responsifyjs",
+  "version": "1.0.0",
+  "description": "A jquery plugin that makes images truly responsive, without sacrificing anyone's face.",
+  "main": "responsify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcavaliere/ResponsifyJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcavaliere/ResponsifyJS/issues"
+  },
+  "homepage": "https://github.com/mcavaliere/ResponsifyJS#readme"
+}
